@@ -4,9 +4,9 @@ import Image from 'next/image'; // Import next/image
 
 
 // Import images
-import geoffreyImage from '../../app/assests/geoffrey.jpeg';
-import sarmadImage from '../../app/assests/down.jpg';
-import sherazImage from '../../app/assests/sheraz.jpg';
+import geoffreyImage from '../../app/assests/geoffrey.png';
+import sarmadImage from '../../app/assests/down.png';
+import sherazImage from '../../app/assests/sheraz.png';
 
 const teamMembers = [
     {

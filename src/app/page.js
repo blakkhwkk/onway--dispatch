@@ -13,7 +13,7 @@ export default function Page() {
     <main className="font-sans bg-background min-h-screen text-gray-900">
       <Header />
       <Hero />
-      <Services />
+
       <TruckTypes />
       <Team />
       <Reviews />
